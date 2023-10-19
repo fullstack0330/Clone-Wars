@@ -12,7 +12,7 @@ _-Made by <a href= "https://gourav.io" title="Gourav Goyal"> Gourav Goyal </a>_
 
 I need your help to maintain this list up to date 🙏. See [contribution Guide](#contribution-guide).
 
-[I'm also looking for a maintainer to merge PRs of new clones](https://github.com/GorvGoyl/Clone-Wars/issues/209).
+[I'm also looking for a maintainer to merge PRs of new clones](https://github.com/fullstack0330/Clone-Wars/issues/209).
 
 ### There are 2 tables:
 
@@ -237,7 +237,7 @@ _(scroll right on table to see all 5 columns)_
 | Zapier                         | [n8n.io](https://n8n.io/)                                                                                                                                              | [GitHub](https://github.com/n8n-io/n8n)                                                                                                    | TypeScript, Vue, Docker                                                        | ![GitHub Repo stars](https://flat.badgen.net/github/stars/n8n-io/n8n)                                                                                                                            |
 | Zapier                         | [vimeo.com (gif)](https://vimeo.com/61976251)                                                                                                                          | [GitHub](https://github.com/huginn/huginn)                                                                                                 | Ruby                                                                           | ![GitHub Repo stars](https://flat.badgen.net/github/stars/huginn/huginn)                                                                                                                         |
 
-_Some link is broken or clone is not good enough? [report it](https://github.com/GorvGoyl/Clone-Wars/issues/new)_
+_Some link is broken or clone is not good enough? [report it](https://github.com/fullstack0330/Clone-Wars/issues/new)_
 
 ---
 
@@ -247,7 +247,7 @@ I need your help to maintain this list up to date 🙏.
 
 ### Fixing an invalid clone:
 
-If there's some issue with a clone (URL not working, repo not found, clone not good enough, etc.), then feel free to remove or update it with working link. Just edit [readme.md](https://github.com/GorvGoyl/Clone-Wars/blob/main/README.md) and submit a PR. I'll review and merge it.
+If there's some issue with a clone (URL not working, repo not found, clone not good enough, etc.), then feel free to remove or update it with working link. Just edit [readme.md](https://github.com/fullstack0330/Clone-Wars/blob/main/README.md) and submit a PR. I'll review and merge it.
 
 ### Adding new clone:
 
@@ -259,6 +259,6 @@ Before submitting a clone make sure:
 
 Add clone to **1st table** if you can also provide tutorial link else add it to **2nd table**. Maintain alphabetical order while adding.
 
-Edit [readme.md](https://github.com/GorvGoyl/Clone-Wars/blob/main/README.md) (_you may use online md editor like [markdown.site](https://markdown.site/) for better table visualization_) and submit the PR! Make sure there are no merge conflicts.
+Edit [readme.md](https://github.com/fullstack0330/Clone-Wars/blob/main/README.md) (_you may use online md editor like [markdown.site](https://markdown.site/) for better table visualization_) and submit the PR! Make sure there are no merge conflicts.
 
-Any other [feedback](https://github.com/GorvGoyl/Clone-Wars/issues) to improve this project is also welcome :)
+Any other [feedback](https://github.com/fullstack0330/Clone-Wars/issues) to improve this project is also welcome :)
